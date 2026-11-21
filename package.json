@@ -1,0 +1,1 @@
+{"description":"The Friday Edition — V8: one image summing up the world's news of Friday 20 November 2026.","name":"news-image-20261120-v8","private":true,"scripts":{"build":"python3 render.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
